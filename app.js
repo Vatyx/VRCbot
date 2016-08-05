@@ -28,6 +28,7 @@ vrcbot.on("message", function(message) {
             vrcbot.sendMessage(message.channel, "Arteezy");
         }
     }
+
 });
 
 vrcbot.loginWithToken('MjEwNjAwMDQ2NjUwMDY0ODk2.CoXVrA.BfRdd4rJHkFvYhqnSlSCl2rVMY0');
